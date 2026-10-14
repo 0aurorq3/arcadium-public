@@ -1,6 +1,6 @@
 # Arcadium Client
 
-Minecraft 1.8.9 client and native Windows launcher.
+Minecraft 1.8.9 client and launcher.
 
 [Official website and downloads](https://arcadiumclient.com/)
 
